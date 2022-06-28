@@ -20,4 +20,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 )
 
+replace github.com/mendersoftware/openssl => github.com/zweiund40GmbH/openssl v1.1.0
 replace github.com/urfave/cli/v2 => github.com/mendersoftware/cli/v2 v2.1.1-minimal
